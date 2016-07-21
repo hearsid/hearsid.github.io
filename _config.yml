@@ -1,0 +1,19 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: hearsid
+email: hearsid@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Tech blog containing open source projects I have worked on.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://hearsid.github.io" # the base hostname & protocol for your site
+twitter_username: hearsid
+github_username:  hearsid
+
+# Build settings
+markdown: kramdown

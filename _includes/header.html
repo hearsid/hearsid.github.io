@@ -34,7 +34,7 @@
                         </i>
                     </a>
                 {% endif %}
-                <!-- linkedin -->
+                <!-- medium -->
                 {% if site.medium != "" %}
                     <a class="header_btn" href="https://medium.com/@{{ site.medium }}">
                         <i class="fa fa-medium">
@@ -44,6 +44,18 @@
                         </i>
                     </a>
                 {% endif %}
+
+                <!-- linkedin -->
+                {% if site.linkedin != "" %}
+                    <a class="header_btn" href="https://linkedin.com/in/{{ site.linkedin }}">
+                        <i class="fa fa-linkedin">
+                            {% if page.btn_text != false %}
+                                <p class="btn_text">Linkedin</p>
+                            {% endif %}
+                        </i>
+                    </a>
+                {% endif %}
+
                 <!-- maximize -->
                 {% if page.maximize != false %}
                     <a class="header_btn" id="mxmz_btn" onclick="toggle_maximize()">

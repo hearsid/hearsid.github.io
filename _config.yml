@@ -13,6 +13,7 @@ webrick:
 email: "hearsid@gmail.com"
 github: "hearsid"
 medium: "hearsid"
+linkedin: "hearsid"
 # path to: css/, fonts/, img/ and js/
 assets_path: "/assets" # i.e. "/assets" 
 statement: "All Rights Reserved"

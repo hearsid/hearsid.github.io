@@ -18,16 +18,9 @@ permalink: /
 
 ```ruby
 # Something about me.
- > I am a ployglot programmer in industry from 7 years and can code in Javascript, Python and more.
- > I keep exploring the area of connecting Machine Learning with Finance to predict the market.
+ > I am a ployglot programmer and can code in Javascript, Python and more.
+ > I keep exploring the area of connecting Technology with different domains to solve real world problems.
  > Please check my social profiles links given on top of the website to know more about me.
- > Apart from that, I love dogs.
-
-      / \__
-      (    @\___
-      /         O
-     /   (_____/
-    /_____/   U
 
 ```
 

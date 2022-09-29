@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Blockchain"
-date:   2022-18-09 17:34:58 +0530
+title: "Blockchain"
+date: 2022-18-09 17:34:58 +0530
 category: Blockchain
 ---
 

@@ -11,17 +11,7 @@ encrypted_text: true
 permalink: /
 ---
 
-# \#HEARSID\#
+# \#Siddharth Sharma (@HEARSID)\#
 
 ---
-### :The Programmer/Quant you need:
-
-```ruby
-# Something about me.
- > I am a ployglot programmer and can code in Javascript, Python and more.
- > I keep exploring the area of connecting Technology with different domains to solve real world problems.
- > Please check my social profiles links given on top of the website to know more about me.
-
-```
-
-
+### :Ployglot programmer (Javascript, Python mostly) | Domain knowledge | Banking | Maritime:

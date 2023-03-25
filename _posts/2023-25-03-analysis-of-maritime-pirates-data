@@ -4,6 +4,7 @@ title: "Data Analysis: Maritime Pirates data"
 date:   2023-25-03 19:33:58 +0530
 category: python
 ---
+
 Columns:
 - Year: The year in which the attack occurred.
 - Date: The date on which the attack occurred.

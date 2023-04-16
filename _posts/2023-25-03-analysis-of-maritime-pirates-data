@@ -4,6 +4,9 @@ title: "Data Analysis: Maritime Pirates data"
 date:   2023-25-03 19:33:58 +0530
 category: python
 ---
+
+EDA
+
 Columns:
 - Year: The year in which the attack occurred.
 - Date: The date on which the attack occurred.
@@ -24,7 +27,7 @@ Columns:
 - Description: A detailed description of the attack.
 
 Link:
-- https://colab.research.google.com/drive/1OPk5P80qOEQt-tpk762qb_Dgjdko0euQ?usp=sharing
+- https://colab.research.google.com/drive/1v6iqiB775e6YhFbg3S-LpJc8cmRqkCs3#scrollTo=AEzlz-aIH7JS
 
 Bar chart of location wise attacks:
 ![pirates location](/assets/img/pirates-country-graph.png)

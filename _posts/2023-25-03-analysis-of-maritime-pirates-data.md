@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "Data Analysis: Maritime Pirates data"
-date: 2023-24-03 19:33:58 +0530
+date:   2022-11-05 19:33:58 +0530
 category: python
 ---
 
-EDA
+[EDA Report](https://hearsid.com/assets/html/pirates-maritime.html)
 
 Columns:
 - Year: The year in which the attack occurred.
